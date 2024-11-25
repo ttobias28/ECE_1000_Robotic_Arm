@@ -12,4 +12,4 @@ UNFINISHED
 - Raspberry Pi Pico
 - Servo Motors
 - Joystick
-- LCD Screen
+- OLED Screen
