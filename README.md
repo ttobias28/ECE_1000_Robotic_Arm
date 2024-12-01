@@ -8,8 +8,8 @@ Teagan Tobias – Electrical Engineering Major
 UNFINISHED
 ## Project Capabilities and Goals
 - Produce a low cost robotic arm using a 3D printed structure and S51 Micro Servos
-- Use a joystick to have control over base, and vertical movement of the arm  
-                  - Move the arm up, down, left, and right
+- Use 3-4 Servo motors to create a controllable arm
+- Use a joystick to have control over base, and vertical movement of the arm
 - Use an additional Servo Motor to control claw movement
 ## Materials Used
 - Raspberry Pi Pico
