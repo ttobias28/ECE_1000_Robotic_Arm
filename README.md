@@ -12,3 +12,4 @@ UNFINISHED
 - Raspberry Pi Pico
 - Servo Motors
 - Joystick
+- Jumper Wires
