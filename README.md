@@ -12,4 +12,3 @@ UNFINISHED
 - Raspberry Pi Pico
 - Servo Motors
 - Joystick
-- OLED Screen
