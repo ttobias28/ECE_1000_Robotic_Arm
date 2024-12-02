@@ -16,3 +16,4 @@ Robot arms aren't necessarily cheap, especially with human-controlled aspects. T
 - Servo Motors (4)
 - Joystick
 - Jumper Wires
+- 3D printed structure (PLA filament)
